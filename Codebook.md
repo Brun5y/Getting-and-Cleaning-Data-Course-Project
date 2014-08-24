@@ -16,49 +16,49 @@ The magnitudes of the net values were calculated from the square roots of the su
  
  ** In every 2.56 second interval the accleration in the x direction was recorded by the accelerometer 128 times for the given subject participating in the given activity. 
  ** The mean of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files. Its variable name was tBodyAcc-mean()-X.
  ** The mean of all of these interval means was then calculated, which is the value seen for this observation in my final summary table.
  
  * [4] "Body Accelerometer Mean Y" - a numeric observation where:
  
  ** In every 2.56 second interval the accleration in the y direction was recorded by the accelerometer 128 times for the given subject participating in the given activity.
  ** The mean of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was tBodyAcc-mean()-Y.
  ** The mean of all of these interval means was then calculated, which is the value seen for this observation in my final summary table.                               
  
  * [5] "Body Accelerometer Mean Z" - a numeric observation where:
  
  ** In every 2.56 second interval the accleration in the z direction was recorded by the accelerometer 128 times for the given subject participating in the given activity. 
  ** The mean of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was tBodyAcc-mean()-Z.
  ** The mean of all of these interval means was then calculated, which is the value seen for this observation in my final summary table.                            
  
  * [6] "Body Accelerometer Standard Deviation X" - a numeric observation where:
  
  ** In every 2.56 second interval the accleration in the x direction was recorded by the accelerometer 128 times for the given subject participating in the given activity. 
  ** The standard deviation of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files. Its variable name was tBodyAcc-std()-X.
  ** The mean of all of these interval standard deviations was then calculated, which is the value seen for this observation in my final summary table.               
  
  * [7] "Body Accelerometer Standard Deviation Y" - a numeric observation where:
  
  ** In every 2.56 second interval the accleration in the y direction was recorded by the accelerometer 128 times for the given subject participating in the given activity. 
  ** The standard deviation of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was tBodyAcc-std()-Y.
  ** The mean of all of these interval standard deviations was then calculated, which is the value seen for this observation in my final summary table.               
  
  * [8] "Body Accelerometer Standard Deviation Z" - a numeric observation where:
  
  ** In every 2.56 second interval the accleration in the z direction was recorded by the accelerometer 128 times for the given subject participating in the given activity. 
  ** The standard deviation of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files. Its variable name was tBodyAcc-std()-Z.
  ** The mean of all of these interval standard deviations was then calculated, which is the value seen for this observation in my final summary table.   
  
  * [9] "Gravity Accelerometer Mean X" - a numeric observation where:
  
  ** In every 2.56 second interval the accleration due to gravity in the x direction was recorded by the accelerometer 128 times for the given subject participating in the given activity. 
  ** The mean of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was tGravityAcc-mean()-X.
  ** The mean of all of these interval means was then calculated, which is the value seen for this observation in my final summary table.
  
  
@@ -66,196 +66,196 @@ The magnitudes of the net values were calculated from the square roots of the su
  
  ** In every 2.56 second interval the accleration due to gravity in the y direction was recorded by the accelerometer 128 times for the given subject participating in the given activity. 
  ** The mean of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files. Its variable name was tGravityAcc-mean()-Y.
  ** The mean of all of these interval means was then calculated, which is the value seen for this observation in my final summary table.
  
  * [11] "Gravity Accelerometer Mean Z" - a numeric observation where:
  
  ** In every 2.56 second interval the accleration due to gravity in the z direction was recorded by the accelerometer 128 times for the given subject participating in the given activity. 
  ** The mean of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was tGravityAcc-mean()-Z.
  ** The mean of all of these interval means was then calculated, which is the value seen for this observation in my final summary table .
  
  * [12] "Gravity Accelerometer Standard Deviation X" - a numeric observation where:
  
  ** In every 2.56 second interval the accleration due to gravity in the x direction was recorded by the accelerometer 128 times for the given subject participating in the given activity. 
  ** The standard deviation of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was tGravityAcc-std()-X.
  ** The mean of all of these interval standard deviations was then calculated, which is the value seen for this observation in my final summary table.  
  
  * [13] "Gravity Accelerometer Standard Deviation Y" - a numeric observation where:
  
  ** In every 2.56 second interval the accleration due to gravity in the y direction was recorded by the accelerometer 128 times for the given subject participating in the given activity. 
  ** The standard deviation of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was tGravityAcc-std()-Y.
  ** The mean of all of these interval standard deviations was then calculated, which is the value seen for this observation in my final summary table.
  
  * [14] "Gravity Accelerometer Standard Deviation Z - a numeric observation where:
  
  ** In every 2.56 second interval the accleration due to gravity in the z direction was recorded by the accelerometer 128 times for the given subject participating in the given activity. 
  ** The standard deviation of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was tGravityAcc-std()-Z.
  ** The mean of all of these interval standard deviations was then calculated, which is the value seen for this observation in my final summary table.
  
  * [15] "Body Accelerometer Jerk Mean X" - a numeric observation where:
  
  ** In every 2.56 second interval the jerk in the x direction was recorded by the accelerometer 128 times for the given subject participating in the given activity. 
  ** The mean of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files. Its variable name was tBodyAccJerk-mean()-X.
  ** The mean of all of these interval means was then calculated, which is the value seen for this observation in my final summary table. 
  
  * [16] "Body Accelerometer Jerk Mean Y" - a numeric observation where:
  
  ** In every 2.56 second interval the jerk in the y direction was recorded by the accelerometer 128 times for the given subject participating in the given activity.
  ** The mean of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was tBodyAccJerk-mean()-Y.
  ** The mean of all of these interval means was then calculated, which is the value seen for this observation in my final summary table.   
  
  * [17] "Body Accelerometer Jerk Mean Z" - a numeric observation where:
  
  ** In every 2.56 second interval the jerk in the z direction was recorded by the accelerometer 128 times for the given subject participating in the given activity. 
  ** The mean of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was tBodyAccJerk-mean()-Z.
  ** The mean of all of these interval means was then calculated, which is the value seen for this observation in my final summary table.   
  
  * [18] "Body Accelerometer Jerk Standard Deviation X" - a numeric observation where:
  
  ** In every 2.56 second interval the jerk in the x direction was recorded by the accelerometer 128 times for the given subject participating in the given activity.
  ** The standard deviation of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was tBodyAccJerk-std()-X.
  ** The mean of all of these interval standard deviations was then calculated, which is the value seen for this observation in my final summary table.    
  
  * [19] "Body Accelerometer Jerk Standard Deviation Y" - a numeric observation where:
  
  ** In every 2.56 second interval the jerk in the x direction was recorded by the accelerometer 128 times for the given subject participating in the given activity. 
  ** The standard deviation of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was tBodyAccJerk-std()-Y.
  ** The mean of all of these interval standard deviations was then calculated, which is the value seen for this observation in my final summary table.           
  
  * [20] "Body Accelerometer Jerk Standard Deviation Z" - a numeric observation where:
  
  ** In every 2.56 second interval the jerk in the x direction was recorded by the accelerometer 128 times for the given subject participating in the given activity. 
  ** The standard deviation of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was tBodyAccJerk-std()-Z.
  ** The mean of all of these interval standard deviations was then calculated, which is the value seen for this observation in my final summary table. 
  
  * [21] "Body Gyroscope Mean X" - a numeric observation where:
  
  ** In every 2.56 second interval the angular velocity about the x-axis was recorded by the gyroscope 128 times for the given subject participating in the given activity. 
  ** The mean of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was tBodyGyro-mean()-X.
  ** The mean of all of these interval means was then calculated, which is the value seen for this observation in my final summary table.  
  
  * [22] "Body Gyroscope Mean Y" - a numeric observation where:
  
  ** In every 2.56 second interval the angular velocity about y-axis was recorded by the gyroscope 128 times for the given subject participating in the given activity. 
  ** The mean of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was tBodyGyro-mean()-Y.
  ** The mean of all of these interval means was then calculated, which is the value seen for this observation in my final summary table.
  
  * [23] "Body Gyroscope Mean Z" - a numeric observation where:
  
  ** In every 2.56 second interval the angular velocity about z-axis was recorded by the gyroscope 128 times for the given subject participating in the given activity. 
  ** The mean of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was tBodyGyro-mean()-Z.
  ** The mean of all of these interval means was then calculated, which is the value seen for this observation in my final summary table. 
  
  * [24] "Body Gyroscope Standard Deviation X" - a numeric observation where:
  
  ** In every 2.56 second interval the angular velocity about x-axis was recorded by the gyroscope 128 times for the given subject participating in the given activity. 
  ** The standard deviation of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was tBodyGyro-std()-X.
  ** The mean of all of these interval standard deviations was then calculated, which is the value seen for this observation in my final summary table.
  
  * [25] "Body Gyroscope Standard Deviation Y" - a numeric observation where:
  
  ** In every 2.56 second interval the angular velocity about y-axis was recorded by the gyroscope 128 times for the given subject participating in the given activity. 
  ** The standard deviation of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was tBodyGyro-std()-Y.
  ** The mean of all of these interval standard deviations was then calculated, which is the value seen for this observation in my final summary table. 
  
  * [26] "Body Gyroscope Standard Deviation Z" - a numeric observation where:
  
  ** In every 2.56 second interval the angular velocity about y-axis was recorded by the gyroscope 128 times for the given subject participating in the given activity. 
- ** This was the data that was passed to us in the train/test files.
  ** The standard deviation of each 2.56 second interval was then calculated.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was tBodyGyro-std()-Z.
  ** The mean of all of these interval standard deviations was then calculated, which is the value seen for this observation in my final summary table.
  
  * [27] "Body Gyroscope Jerk Mean X" - a numeric observation where:
  
  ** In every 2.56 second interval the jerk for the rotation about x-axis was recorded by the gyroscope 128 times for the given subject participating in the given activity. 
  ** The mean of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was tBodyGyroJerk-mean()-X.
  ** The mean of all of these interval means was then calculated, which is the value seen for this observation in my final summary table.    
  
  * [28] "Body Gyroscope Jerk Mean Y" - a numeric observation where:
  
  ** In every 2.56 second interval the jerk for the rotation about y-axis was recorded by the gyroscope 128 times for the given subject participating in the given activity. 
  ** The mean of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was tBodyGyroJerk-mean()-Y.  
  ** The mean of all of these interval means was then calculated, which is the value seen for this observation in my final summary table. 
  
  * [29] "Body Gyroscope Jerk Mean Z" - a numeric observation where:
  
  ** In every 2.56 second interval the jerk for the rotation about z-axis was recorded by the gyroscope 128 times for the given subject participating in the given activity. 
  ** The mean of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was tBodyGyroJerk-mean()-Z.
  ** The mean of all of these interval means was then calculated, which is the value seen for this observation in my final summary table.  
  
  * [30] "Body Gyroscope Jerk Standard Deviation X" - a numeric observation where:
  
  ** In every 2.56 second interval the jerk for the rotation about x-axis was recorded by the gyroscope 128 times for the given subject participating in the given activity. 
  ** The standard deviation of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files. Its variable name was tBodyGyroJerk-std()-X.
  ** The mean of all of these interval standard deviations was then calculated, which is the value seen for this observation in my final summary table.  
  
  * [31] "Body Gyroscope Jerk Standard Deviation Y" - a numeric observation where:
  
  ** In every 2.56 second interval the jerk for the rotation about y-axis was recorded by the gyroscope 128 times for the given subject participating in the given activity. 
  ** The standard deviation of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was tBodyGyroJerk-std()-X.
  ** The mean of all of these interval standard deviations was then calculated, which is the value seen for this observation in my final summary table.   
  
  * [32] "Body Gyroscope Jerk Standard Deviation Z" - a numeric observation where:
  
  ** In every 2.56 second interval the jerk for the rotation about z-axis was recorded by the gyroscope 128 times for the given subject participating in the given activity. 
  ** The standard deviation of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was tBodyGyroJerk-std()-X.
  ** The mean of all of these interval standard deviations was then calculated, which is the value seen for this observation in my final summary table.  
  
  * [33] "Body Accelerometer Magnitude Mean" - a numeric observation where:
  
  ** In every 2.56 second interval the  magitude of the net accleration was calculated from the accelerometer data 128 times for the given subject participating in the given activity. 
  ** The mean of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was tBodyAccMag-mean().
  ** The mean of all of these interval means was then calculated, which is the value seen for this observation in my final summary table.
  
  * [34] "Body Accelerometer Magnitude Standard Deviation" - a numeric observation where:
  
  ** In every 2.56 second interval the  magitude of the net accleration was calculated from the accelerometer data 128 times for the given subject participating in the given activity. 
  ** The standard deviation of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was tBodyAccMag-std().
  ** The mean of all of these interval standard deviations was then calculated, which is the value seen for this observation in my final summary table.   
  
  * [35] "Gravity Accelerometer Magnitude Mean" - a numeric observation where:
  
  ** In every 2.56 second interval the  magitude of the net accleration due to gravity was calculated from the accelerometer data 128 times for the given subject participating in the given activity. 
  ** The mean of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was tGravityAccMag-mean().
  ** The mean of all of these interval means was then calculated, which is the value seen for this observation in my final summary table.
  
  * [36] "Gravity Accelerometer Magnitude Standard Deviation" - a numeric observation where:
  
  ** In every 2.56 second interval the  magitude of the net accleration due to gravity was calculated from the accelerometer data 128 times for the given subject participating in the given activity. 
  ** The standard deviation of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was tGravityAccMag-std().  
  ** The mean of all of these interval standard deviations was then calculated, which is the value seen for this observation in my final summary table. 
  
  * [37] "Body Accelerometer Jerk Magnitude Mean" - a numeric observation where:
  
  ** In every 2.56 second interval the  magitude of the jerk was calculated from the accelerometer data 128 times for the given subject participating in the given activity. 
  ** The mean of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was tBodyAccJerkMag-mean().
  ** The mean of all of these interval means was then calculated, which is the value seen for this observation in my final summary table.
  
  
@@ -263,35 +263,35 @@ The magnitudes of the net values were calculated from the square roots of the su
  
  ** In every 2.56 second interval the  magitude of the jerk was calculated by from the accelerometer data 128 times for the given subject participating in the given activity. 
  ** The standard deviation of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was tBodyAccJerkMag-std().
  ** The mean of all of these interval standard deviations was then calculated, which is the value seen for this observation in my final summary table.   
  
  * [39] "Body Gyroscope Magnitude Mean" - a numeric observation where:
  
  ** In every 2.56 second interval the net magnitude of the angular velocity was calculated from the gyroscope data 128 times for the given subject participating in the given activity. 
  ** The mean of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was tBodyGyroMag-mean().
  ** The mean of all of these interval means was then calculated, which is the value seen for this observation in my final summary table.  
  
  * [40] "Body Gyroscope Magnitude Standard Deviation" - a numeric observation where:
  
  ** In every 2.56 second interval the net magnitude of the angular velocity was calculated from the gyroscope data 128 times for the given subject participating in the given activity. 
  ** The standard deviation of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was tBodyGyroMag-std().
  ** The mean of all of these interval standard deviations was then calculated, which is the value seen for this observation in my final summary table.
  
  * [41] "Body Gyroscope Jerk Magnitude Mean" - a numeric observation where:
  
  ** In every 2.56 second interval the net magnitude of the angular velocity was calculated from the gyroscope data 128 times for the given subject participating in the given activity. 
  ** The mean of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was tBodyGyroJerkMag-mean().
  ** The mean of all of these interval means was then calculated, which is the value seen for this observation in my final summary table.   
  
  * [42] "Body Gyroscope Jerk Magnitude Standard Deviation" - a numeric observation where:
  
  ** In every 2.56 second interval the net magnitude of the jerk was calculated from the gyroscope data 128 times for the given subject participating in the given activity. 
  ** The standard deviation of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was tBodyGyroJerkMag-std().
  ** The mean of all of these interval standard deviations was then calculated, which is the value seen for this observation in my final summary table 
  
  * [43] "FFT Body Accelerometer Mean X" - a numeric observation where:
@@ -299,7 +299,7 @@ The magnitudes of the net values were calculated from the square roots of the su
  ** In every 2.56 second interval the accleration in the x direction was recorded by the accelerometer 128 times for the given subject participating in the given activity.
  ** A fast fourier transform algorithim was then applied to the data in each interval to convert the data from the time domain to the frequency domain.
  ** The mean of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was fBodyAcc-mean()-X.
  ** The mean of all of these interval means was then calculated, which is the value seen for this observation in my final summary table.   
  
  * [44] "FFT Body Accelerometer Mean Y" - a numeric observation where:
@@ -307,7 +307,7 @@ The magnitudes of the net values were calculated from the square roots of the su
  ** In every 2.56 second interval the accleration in the y direction was recorded by the accelerometer 128 times for the given subject participating in the given activity.
  ** A fast fourier transform algorithim was then applied to the data in each interval to convert the data from the time domain to the frequency domain.
  ** The mean of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was fBodyAcc-mean()-Y.
  ** The mean of all of these interval means was then calculated, which is the value seen for this observation in my final summary table.   
   
  
@@ -315,8 +315,8 @@ The magnitudes of the net values were calculated from the square roots of the su
  
  ** In every 2.56 second interval the accleration in the z direction was recorded by the accelerometer 128 times for the given subject participating in the given activity.
  ** A fast fourier transform algorithim was then applied to the data in each interval to convert the data from the time domain to the frequency domain.
- ** The mean of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** The mean of each 2.56 second interval was then calculated.  Its variable name was fBodyAcc-mean()-Z.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was fBodyAcc-mean()-Y.
  ** The mean of all of these interval means was then calculated, which is the value seen for this observation in my final summary table.   
     
  
@@ -325,7 +325,7 @@ The magnitudes of the net values were calculated from the square roots of the su
  ** In every 2.56 second interval the accleration in the x direction was recorded by the accelerometer 128 times for the given subject participating in the given activity.
  ** A fast fourier transform algorithim was then applied to the data in each interval to convert the data from the time domain to the frequency domain.
  ** The standard deviation of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was fBodyAcc-std()-X.
  ** The mean of all of these interval stand deviations was then calculated, which is the value seen for this observation in my final summary table.  
  
  * [47] "FFT Body Accelerometer Standard Deviation Y" - a numeric observation where:
@@ -333,7 +333,7 @@ The magnitudes of the net values were calculated from the square roots of the su
  ** In every 2.56 second interval the accleration in the y direction was recorded by the accelerometer 128 times for the given subject participating in the given activity.
  ** A fast fourier transform algorithim was then applied to the data in each interval to convert the data from the time domain to the frequency domain.
  ** The standard deviation of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was fBodyAcc-std()-Y.
  ** The mean of all of these interval stand deviations was then calculated, which is the value seen for this observation in my final summary table.  
  
  * [48] "FFT Body Accelerometer Standard Deviation Z" - a numeric observation where:
@@ -341,7 +341,7 @@ The magnitudes of the net values were calculated from the square roots of the su
  ** In every 2.56 second interval the accleration in the z direction was recorded by the accelerometer 128 times for the given subject participating in the given activity.
  ** A fast fourier transform algorithim was then applied to the data in each interval to convert the data from the time domain to the frequency domain.
  ** The standard deviation of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was fBodyAcc-std()-Z.
  ** The mean of all of these interval stand deviations was then calculated, which is the value seen for this observation in my final summary table.  
  
  * [49] "FFT Body Accelerometer Jerk Mean X" - a numeric observation where:
@@ -349,7 +349,7 @@ The magnitudes of the net values were calculated from the square roots of the su
  ** In every 2.56 second interval the jerk in the x direction was recorded by the accelerometer 128 times for the given subject participating in the given activity.
  ** A fast fourier transform algorithim was then applied to the data in each interval to convert the data from the time domain to the frequency domain.
  ** The mean of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was fBodyAccJerk-mean()-X.
  ** The mean of all of these interval means was then calculated, which is the value seen for this observation in my final summary table.    
  
  * [50] "FFT Body Accelerometer Jerk Mean Y" - a numeric observation where:
@@ -357,7 +357,7 @@ The magnitudes of the net values were calculated from the square roots of the su
  ** In every 2.56 second interval the jerk in the y direction was recorded by the accelerometer 128 times for the given subject participating in the given activity.
  ** A fast fourier transform algorithim was then applied to the data in each interval to convert the data from the time domain to the frequency domain.
  ** The mean of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was fBodyAccJerk-mean()-Y.
  ** The mean of all of these interval means was then calculated, which is the value seen for this observation in my final summary table.       
  
  * [51] "FFT Body Accelerometer Jerk Mean Z" - a numeric observation where:
@@ -365,7 +365,7 @@ The magnitudes of the net values were calculated from the square roots of the su
  ** In every 2.56 second interval the jerk in the z direction was recorded by the accelerometer 128 times for the given subject participating in the given activity.
  ** A fast fourier transform algorithim was then applied to the data in each interval to convert the data from the time domain to the frequency domain.
  ** The mean of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was fBodyAccJerk-mean()-Z.
  ** The mean of all of these interval means was then calculated, which is the value seen for this observation in my final summary table.         
  
  * [52] "FFT Body Accelerometer Jerk Standard Deviation X" - a numeric observation where:
@@ -373,7 +373,7 @@ The magnitudes of the net values were calculated from the square roots of the su
  ** In every 2.56 second interval the jerk in the x direction was recorded by the accelerometer 128 times for the given subject participating in the given activity.
  ** A fast fourier transform algorithim was then applied to the data in each interval to convert the data from the time domain to the frequency domain.
  ** The standard deviation of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was fBodyAccJerk-std()-X.
  ** The mean of all of these interval standard deviations was then calculated, which is the value seen for this observation in my final summary table.   
  
  * [53] "FFT Body Accelerometer Jerk Standard Deviation Y" - a numeric observation where:
@@ -381,7 +381,7 @@ The magnitudes of the net values were calculated from the square roots of the su
  ** In every 2.56 second interval the jerk in the y direction was recorded by the accelerometer 128 times for the given subject participating in the given activity.
  ** A fast fourier transform algorithim was then applied to the data in each interval to convert the data from the time domain to the frequency domain.
  ** The standard deviation of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was fBodyAccJerk-std()-Y.
  ** The mean of all of these interval standard deviations was then calculated, which is the value seen for this observation in my final summary table.   
  
  * [54] "FFT Body Accelerometer Jerk Standard Deviation Z" - a numeric observation where:
@@ -389,7 +389,7 @@ The magnitudes of the net values were calculated from the square roots of the su
  ** In every 2.56 second interval the jerk in the z direction was recorded by the accelerometer 128 times for the given subject participating in the given activity.
  ** A fast fourier transform algorithim was then applied to the data in each interval to convert the data from the time domain to the frequency domain.
  ** The standard deviation of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was fBodyAccJerk-std()-Z.
  ** The mean of all of these interval standard deviations was then calculated, which is the value seen for this observation in my final summary table.     
  
  * [55] "FFT Body Gyroscope Mean X" - a numeric observation where: 
@@ -397,7 +397,7 @@ The magnitudes of the net values were calculated from the square roots of the su
  ** In every 2.56 second interval the angular velocity about the x-axis was recorded by the gyroscope 128 times for the given subject participating in the given activity. 
  ** A fast fourier transform algorithim was then applied to the data in each interval to convert the data from the time domain to the frequency domain.
  ** The mean of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files. Its variable name was fBodyGyro-mean()-X.
  ** The mean of all of these interval means was then calculated, which is the value seen for this observation in my final summary table.
  
  * [56] "FFT Body Gyroscope Mean Y" - a numeric observation where: 
@@ -405,7 +405,7 @@ The magnitudes of the net values were calculated from the square roots of the su
  ** In every 2.56 second interval the angular velocity about the y-axis was recorded by the gyroscope 128 times for the given subject participating in the given activity.
  ** A fast fourier transform algorithim was then applied to the data in each interval to convert the data from the time domain to the frequency domain.
  ** The mean of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was fBodyGyro-mean()-Y.
  ** The mean of all of these interval means was then calculated, which is the value seen for this observation in my final summary table. 
  
  * [57] "FFT Body Gyroscope Mean Z" - a numeric observation where: 
@@ -413,7 +413,7 @@ The magnitudes of the net values were calculated from the square roots of the su
  ** In every 2.56 second interval the angular velocity about the z-axis was recorded by the gyroscope 128 times for the given subject participating in the given activity.
  ** A fast fourier transform algorithim was then applied to the data in each interval to convert the data from the time domain to the frequency domain.
  ** The mean of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was fBodyGyro-mean()-Z.
  ** The mean of all of these interval means was then calculated, which is the value seen for this observation in my final summary table.  
  
  * [58] "FFT Body Gyroscope Standard Deviation X" - a numeric observation where: 
@@ -421,7 +421,7 @@ The magnitudes of the net values were calculated from the square roots of the su
  ** In every 2.56 second interval the angular velocity about the x-axis was recorded by the gyroscope 128 times for the given subject participating in the given activity.
  ** A fast fourier transform algorithim was then applied to the data in each interval to convert the data from the time domain to the frequency domain.
  ** The standard deviation of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was fBodyGyro-std()-X.
  ** The mean of all of these interval standard deviations was then calculated, which is the value seen for this observation in my final summary table.
  
  * [59] "FFT Body Gyroscope Standard Deviation Y" - a numeric observation where: 
@@ -429,7 +429,7 @@ The magnitudes of the net values were calculated from the square roots of the su
  ** In every 2.56 second interval the angular velocity about the y-axis was recorded by the gyroscope 128 times for the given subject participating in the given activity.
  ** A fast fourier transform algorithim was then applied to the data in each interval to convert the data from the time domain to the frequency domain.
  ** The standard deviation of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was fBodyGyro-std()-Y.
  ** The mean of all of these interval standard deviations was then calculated, which is the value seen for this observation in my final summary table. 
  
  * [60] "FFT Body Gyroscope Standard Deviation Z" - a numeric observation where: 
@@ -437,7 +437,7 @@ The magnitudes of the net values were calculated from the square roots of the su
  ** In every 2.56 second interval the angular velocity about the z-axis was recorded by the gyroscope 128 times for the given subject participating in the given activity.
  ** A fast fourier transform algorithim was then applied to the data in each interval to convert the data from the time domain to the frequency domain.
  ** The standard deviation of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was fBodyGyro-std()-Z.
  ** The mean of all of these interval standard deviations was then calculated, which is the value seen for this observation in my final summary table.
  
  * [61] "FFT Body Accelerometer Magnitude Mean" - a numeric observation where:
@@ -445,7 +445,7 @@ The magnitudes of the net values were calculated from the square roots of the su
  ** In every 2.56 second interval the magnitude of the net accleration was calculated from the accelerometer data 128 times for the given subject participating in the given activity.
  ** A fast fourier transform algorithim was then applied to the data in each interval to convert the data from the time domain to the frequency domain.
  ** The mean of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was fBodyAccMag-mean().
  ** The mean of all of these interval means was then calculated, which is the value seen for this observation in my final summary table.  
  
  * [62] "FFT Body Accelerometer Magnitude Standard Deviation" - a numeric observation where:
@@ -453,7 +453,7 @@ The magnitudes of the net values were calculated from the square roots of the su
  ** In every 2.56 second interval the magnitude of the net accleration was calculated from the accelerometer data 128 times for the given subject participating in the given activity.
  ** A fast fourier transform algorithim was then applied to the data in each interval to convert the data from the time domain to the frequency domain.
  ** The standard deviation of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was fBodyAccMag-std().
  ** The mean of all of these interval stand deviations was then calculated, which is the value seen for this observation in my final summary table. 
  
  * [63] "FFT Body Accelerometer Jerk Magnitude Mean" - - a numeric observation where:
@@ -461,7 +461,7 @@ The magnitudes of the net values were calculated from the square roots of the su
  ** In every 2.56 second interval the  magitude of the jerk was calculated from the accelerometer data 128 times for the given subject participating in the given activity. 
  ** A fast fourier transform algorithim was then applied to the data in each interval to convert the data from the time domain to the frequency domain.
  ** The mean of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was fBodyBodyAccJerkMag-mean().
  ** The mean of all of these interval means was then calculated, which is the value seen for this observation in my final summary table.  
  
  * [64] "FFT Body Accelerometer Jerk Magnitude Standard Deviation" - a numeric observation where:
@@ -469,7 +469,7 @@ The magnitudes of the net values were calculated from the square roots of the su
  ** In every 2.56 second interval the  magitude of the jerk was calculated by from the accelerometer data 128 times for the given subject participating in the given activity.
  ** A fast fourier transform algorithim was then applied to the data in each interval to convert the data from the time domain to the frequency domain.
  ** The standard deviation of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was fBodyBodyAccJerkMag-std().
  ** The mean of all of these interval standard deviations was then calculated, which is the value seen for this observation in my final summary table.    
  
  * [65] "FFT Body Gyroscope Magnitude Mean" - a numeric observation where:
@@ -477,7 +477,7 @@ The magnitudes of the net values were calculated from the square roots of the su
  ** In every 2.56 second interval the net magnitude of the angular velocity was calculated from the gyroscope data 128 times for the given subject participating in the given activity.
  ** A fast fourier transform algorithim was then applied to the data in each interval to convert the data from the time domain to the frequency domain.
  ** The mean of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files. Its variable name was fBodyBodyGyroMag-mean().
  ** The mean of all of these interval means was then calculated, which is the value seen for this observation in my final summary table.        
  
  * [66] "FFT Body Gyroscope Magnitude Standard Deviation" - a numeric observation where:
@@ -485,7 +485,7 @@ The magnitudes of the net values were calculated from the square roots of the su
  ** In every 2.56 second interval the net magnitude of the angular velocity was calculated from the gyroscope data 128 times for the given subject participating in the given activity.
  ** A fast fourier transform algorithim was then applied to the data in each interval to convert the data from the time domain to the frequency domain.
  ** The standard deviation of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was fBodyBodyGyroMag-std().
  ** The mean of all of these interval standard deviations was then calculated, which is the value seen for this observation in my final summary table.   
  
  * [67] "FFT Body Gyroscope Jerk Magnitude Mean" - a numeric observation where:
@@ -493,7 +493,7 @@ The magnitudes of the net values were calculated from the square roots of the su
  ** In every 2.56 second interval the net magnitude of the angular velocity was calculated from the gyroscope data 128 times for the given subject participating in the given activity.
  ** A fast fourier transform algorithim was then applied to the data in each interval to convert the data from the time domain to the frequency domain. 
  ** The mean of each 2.56 second interval was then calculated.     
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files. Its variable name was fBodyBodyGyroJerkMag-mean().
  ** The mean of all of these interval standard deviations was then calculated, which is the value seen for this observation in my final summary table.
  
  * [68] "FFT Body Gyroscope Jerk Magnitude Standard Deviation" - a numeric observation where:
@@ -501,5 +501,5 @@ The magnitudes of the net values were calculated from the square roots of the su
  ** In every 2.56 second interval the net magnitude of the jerk was calculated from the gyroscope data 128 times for the given subject participating in the given activity.
  ** A fast fourier transform algorithim was then applied to the data in each interval to convert the data from the time domain to the frequency domain. 
  ** The standard deviation of each 2.56 second interval was then calculated.
- ** This was the data that was passed to us in the train/test files.
+ ** This was the data that was passed to us in the train/test files.  Its variable name was fBodyBodyGyroJerkMag-std().
  ** The mean of all of these interval standard deviations was then calculated, which is the value seen for this observation in my final summary table.  
